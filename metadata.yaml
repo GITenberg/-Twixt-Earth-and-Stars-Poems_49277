@@ -1,4 +1,8 @@
 _repo: -Twixt-Earth-and-Stars-Poems_49277
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49277-h/images/cover.jpg
 creator:
   author:
     agent_name: Hall, Radclyffe
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45238
     wikipedia: https://en.wikipedia.org/wiki/Radclyffe_Hall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49277#-Twixt-Earth-and-Stars-Poems
 gutenberg_issued: '2015-06-25'
 gutenberg_type: Text
 identifiers:
